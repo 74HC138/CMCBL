@@ -1,0 +1,5 @@
+build/
+CMCUpload/build/
+.vcode/
+CMCUpload/.vscode/
+CMCUpload/CMCUpload
